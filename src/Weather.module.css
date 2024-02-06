@@ -1,0 +1,43 @@
+.Button {
+    display: block;
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 1em;
+    background: green;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    margin: 25px;
+  }
+  
+  .textInput {
+    display: block;
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 1em;
+    background: wheat;
+    color: black;
+    cursor: pointer;
+    font-style: normal;
+  }
+  
+  .frm {
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .heade {
+    padding: 0.5rem;
+    font-size: 2em;
+    cursor: pointer;
+    color: green;
+  }
+  
+  .di {
+    font-size: 1em;
+    cursor: pointer;
+    color: black;
+    border-style: groove;
+  }
